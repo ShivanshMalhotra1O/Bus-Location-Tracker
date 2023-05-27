@@ -1,0 +1,81 @@
+.sidebar {
+    height: 100%;
+    width: 70px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0, 140, 255);
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+#title{
+    margin-left: 40px;
+    background-color: none;
+    font-weight:500;
+    letter-spacing: 2px;
+}
+
+#sidebutton1{
+    width: 100%;
+    border: 0;
+    text-align: left;
+    font-size: large;
+    margin-top: 10px;
+    
+}
+
+#sidebutton {
+    height: 20px;
+    width: 20px;
+    margin: 0px 11px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(0, 140, 255);
+}
+
+#offcanvasWithBothOptions{
+    width: 300px;
+}
+.menuimage {
+    width: 20px;
+    color: white;
+}
+
+.subheading{
+    margin-top: 40px;
+    margin-left: 110px;
+    text-shadow: 0px 2px 2px rgb(206, 206, 206);
+    background-color: none;
+    letter-spacing: 3px;
+}
+
+.rect{
+    width: 40px;
+    height: 6px;
+    background-color: blue;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+
+.ftext{
+    text-shadow: 0px 2px 2px rgb(206, 206, 206);
+    letter-spacing: 1px;
+}
+
+.more {
+    text-align: center;
+    margin-top: 20px;
+    background-color: none;
+    padding: 4px;
+}
+
+#addbtn{
+    margin: 3px;
+    padding: 4px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: small;
+}

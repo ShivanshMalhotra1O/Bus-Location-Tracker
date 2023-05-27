@@ -1,0 +1,41 @@
+
+#locationback {
+
+    /* background-color: beige; */
+    margin-left: 100px;
+    margin-right: 30px;
+    height: 420px;
+    border-radius: 18px;
+    width: auto;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    /* background-color: blue; */
+    
+}
+
+#lcard1 {
+    margin-top: 20px;
+    border-radius: 12px;
+    border: none;
+    height: 110px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgb(197, 196, 196);
+}
+
+.img{
+    float: left;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.cbody{
+    text-align: left;
+    padding-right: 10px;
+}
+.cbody1{
+    text-align: left;
+    padding-right: 0px;
+    
+}
